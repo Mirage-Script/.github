@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <i>Sua agência de desenvolvimento de software transparente, inovadora e em constante evolução.</i>
+  <i>Sua agência de desenvolvimento de software, inovadora e em constante evolução.</i>
 </p>
 
 <p align="center">
