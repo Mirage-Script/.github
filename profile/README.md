@@ -26,7 +26,7 @@
 
 ## 🚀 Nossa Jornada: Transparência e Crescimento
 
-A **Mirage Script** não é apenas uma agência de desenvolvimento; é um testemunho de paixão, inovação e crescimento contínuo. Nascemos da visão e do esforço de dois desenvolvedores dedicados, [Miguel](https://github.com/MigueI-Codestorm) e [Kauã](https://github.com/UmHomemDeMiragem), que juntos, decidiram construir uma empresa pautada na excelência técnica e na máxima transparência.
+A **Mirage Script** não é apenas uma agência de desenvolvimento; é um testemunho de paixão, inovação e crescimento contínuo. Nascida da visão e do esforço de dois **estudantes de desenvolvimento full-stack** dedicados, [Miguel](https://github.com/MigueI-Codestorm) e [Kauã](https://github.com/UmHomemDeMiragem), que juntos, decidimos construir uma empresa pautada na excelência técnica e na máxima transparência.
 
 Estamos em nossos estágios iniciais, mas com a ambição de se tornar um nome de referência no mercado. Convidamos você a acompanhar nossa trajetória, cada commit, cada projeto e cada nova tecnologia que abraçamos, como parte fundamental da construção da confiança com nossos clientes e colaboradores.
 
@@ -53,7 +53,7 @@ Em Mirage Script, dominamos as áreas essenciais para construir o futuro digital
 
 ## 💻 Nossa Tecnologia (Tech Stack)
 
-Nossa escolha de tecnologias é estratégica, focando em robustez, escalabilidade e a agilidade necessárias para o desenvolvimento full-stack moderno.
+Nossa jornada full-stack é construída sobre um conjunto de tecnologias estratégicas. Estamos constantemente estudando e nos aprofundando nas ferramentas abaixo através de cursos presenciais e prática diária, focando em robustez, escalabilidade e agilidade. Além disso, estamos sempre explorando novas tecnologias para expandir nosso conhecimento e preparar a Mirage Script para o futuro.
 
 <p align="left">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
