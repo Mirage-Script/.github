@@ -164,15 +164,30 @@ Acreditamos na transparência e no poder dos dados para contar nossa história. 
     <td>
       <img 
         height="195px" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MigueI-Codestorm&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
+        src="https://streak-stats.demolab.com/?user=MigueI-Codestorm&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
         alt="GitHub Streak - Miguel" 
       />
     </td>
     <td>
       <img 
         height="195px" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=UmHomemDeMiragem&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
+        src="https://streak-stats.demolab.com/?user=UmHomemDeMiragem&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
         alt="GitHub Streak - Kauã" 
+      />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=MigueI-Codestorm&theme=react-dark" 
+        alt="Gráfico de Contribuições GitHub - Miguel" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=UmHomemDeMiragem&theme=react-dark" 
+        alt="Gráfico de Contribuições GitHub - Kauã" 
       />
     </td>
   </tr>
@@ -182,13 +197,16 @@ Acreditamos na transparência e no poder dos dados para contar nossa história. 
 
 Somos uma dupla de fundadores apaixonados por tecnologia, com expertise full-stack e prontos para inovar.
 
+<div align="center">
+
 | Fundador / Desenvolvedor Full Stack | Fundador / Desenvolvedor Full Stack |
 | :---: | :---: |
 | **Miguel** | **Kauã** |
 | [<img src="https://github.com/MigueI-Codestorm.png?size=120" alt="Miguel" width="120">](https://github.com/MigueI-Codestorm) | [<img src="https://github.com/UmHomemDeMiragem.png?size=120" alt="Kauã" width="120">](https://github.com/UmHomemDeMiragem) |
 | [GitHub @MigueI-Codestorm](https://github.com/MigueI-Codestorm) | [GitHub @UmHomemDeMiragem](https://github.com/UmHomemDeMiragem) |
-| [LinkedIn (Em Breve)](!) | [LinkedIn (Em Breve)](!) |
+| [LinkedIn](https://www.linkedin.com/in/miguel-quiroz-cs/) | [LinkedIn](https://www.linkedin.com/in/mnpax-39349a360/) |
 
+</div>
 ## 🌱 Junte-se a Nós!
 
 Estamos apenas começando e temos grandes ambições. Se você é um talento apaixonado por tecnologia, busca um ambiente de crescimento, colaboração e transparência, a Mirage Script pode ser o seu lugar!
