@@ -115,6 +115,7 @@ Nossa jornada full-stack é construída sobre um conjunto de tecnologias estrat�
 ## 📊 Nosso Progresso no GitHub (Gráficos)
 
 Acreditamos na transparência e no poder dos dados para contar nossa história. O motor por trás da Mirage Script são seus fundadores. Aqui estão as estatísticas que refletem nossa dedicação diária.
+Lembrando que temos projetos privados com mais de 400 commits
 
 <table width="100%">
   <tr align="center">
