@@ -196,7 +196,7 @@ Lembrando que temos projetos privados com mais de 400 commits
 
 ## 👥 Nossa Equipe Fundadora
 
-Somos uma dupla de fundadores apaixonados por tecnologia, com expertise full-stack e prontos para inovar.
+Somos uma dupla de fundadores apaixonados por tecnologia, prontos para inovar.
 
 <div align="center">
 
