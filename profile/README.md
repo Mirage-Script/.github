@@ -1,5 +1,5 @@
 <a href="https://github.com/Mirage-Script">
-  <img src="https://raw.githubusercontent.com/MigueI-Codestorm/MigueI-Codestorm/refs/heads/main/assets/assets/ezgif-6c7421c0e005a8.gif" alt="Mirage Script Logo Banner" width="100%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*xnvIXeS5SidMSdc2bq-ANQ.gif" alt="Mirage Script Logo Banner" width="100%"/>
 </a>
 
 <h1 align="center">
