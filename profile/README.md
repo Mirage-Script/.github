@@ -7,7 +7,13 @@
 </h1>
 
 <p align="center">
-  <i>Sua agência de desenvolvimento de software, inovadora e em constante evolução.</i>
+  <a href="https://github.com/Mirage-Script">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&color=FFFFFF&center=true&vCenter=true&width=900&pause=1500&lines=Transformando+ideias+complexas+em+realidades+funcionais.;Explorando+as+fronteiras+do+desenvolvimento.;Construindo+o+futuro+do+código+aberto." alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Uma agência de desenvolvimento de software que está a construir uma comunidade open source.</i>
 </p>
 
 <p align="center">
@@ -24,13 +30,15 @@
 
 ---
 
-## 🚀 Nossa Jornada: Transparência e Crescimento
+## 🚀 Nossa Identidade: Agência & Comunidade
 
-A **Mirage Script** não é apenas uma agência de desenvolvimento; é um testemunho de paixão, inovação e crescimento contínuo. Nascida da visão e do esforço de dois **estudantes de desenvolvimento full-stack** dedicados, [Miguel](https://github.com/MigueI-Codestorm) e [Kauã](https://github.com/UmHomemDeMiragem), que juntos, decidimos construir uma empresa pautada na excelência técnica e na máxima transparência.
+A **Mirage Script** é uma **agência de desenvolvimento** profissional, focada em transformar ideias complexas em soluções digitais robustas e escaláveis. Nascemos da visão e do esforço de dois estudantes de desenvolvimento full-stack, [Miguel](https://github.com/Miguel-MirageScript) e [Kauã](https://github.com/UmHomemDeMiragem).
 
-Estamos em nossos estágios iniciais, mas com a ambição de se tornar um nome de referência no mercado. Convidamos você a acompanhar nossa trajetória, cada commit, cada projeto e cada nova tecnologia que abraçamos, como parte fundamental da construção da confiança com nossos clientes e colaboradores.
+Além do nosso trabalho focado em clientes, estamos ativamente a **construir uma comunidade de código aberto** vibrante. Acreditamos que a transparência e a colaboração são o futuro, e queremos fomentar um ecossistema de inovação.
 
-## 🎯 Nossa Missão e Valores
+Convidamos você a acompanhar nossa trajetória, cada commit, cada projeto e cada nova tecnologia que abraçamos, como parte fundamental da construção da confiança com nossos clientes e colaboradores.
+
+## 🎯 Nossa Missão e Valores (Como Agência)
 
 ### Missão
 Transformar ideias complexas em soluções digitais intuitivas, robustas e escaláveis, utilizando as melhores práticas de desenvolvimento e um ecossistema tecnológico moderno, enquanto cultivamos um ambiente de aprendizado e crescimento contínuo.
@@ -131,7 +139,7 @@ Lembrando que temos projetos privados com mais de 400 commits
     <td>
       <img 
         height="195px" 
-        src="https://github-readme-stats.vercel.app/api?username=MigueI-Codestorm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20" 
+        src="https://github-readme-stats.vercel.app/api?username=Miguel-MirageScript&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=20" 
         alt="Estatísticas do Miguel" 
       />
     </td>
@@ -148,7 +156,7 @@ Lembrando que temos projetos privados com mais de 400 commits
     <td>
       <img 
         height="195px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigueI-Codestorm&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-MirageScript&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" 
         alt="Linguagens Mais Usadas - Miguel" 
       />
     </td>
@@ -165,7 +173,7 @@ Lembrando que temos projetos privados com mais de 400 commits
     <td>
       <img 
         height="195px" 
-        src="https://streak-stats.demolab.com/?user=MigueI-Codestorm&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
+        src="https://streak-stats.demolab.com/?user=Miguel-MirageScript&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" 
         alt="GitHub Streak - Miguel" 
       />
     </td>
@@ -181,7 +189,7 @@ Lembrando que temos projetos privados com mais de 400 commits
   <tr align="center">
     <td>
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=MigueI-Codestorm&theme=react-dark" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Miguel-MirageScript&theme=react-dark" 
         alt="Gráfico de Contribuições GitHub - Miguel" 
       />
     </td>
@@ -203,11 +211,43 @@ Somos uma dupla de fundadores apaixonados por tecnologia, prontos para inovar.
 | Fundador / Desenvolvedor Full Stack | Fundador / Desenvolvedor Full Stack |
 | :---: | :---: |
 | **Miguel** | **Kauã** |
-| [<img src="https://github.com/MigueI-Codestorm.png?size=120" alt="Miguel" width="120">](https://github.com/MigueI-Codestorm) | [<img src="https://github.com/UmHomemDeMiragem.png?size=120" alt="Kauã" width="120">](https://github.com/UmHomemDeMiragem) |
-| [GitHub @MigueI-Codestorm](https://github.com/MigueI-Codestorm) | [GitHub @UmHomemDeMiragem](https://github.com/UmHomemDeMiragem) |
+| [<img src="https://github.com/Miguel-MirageScript.png?size=120" alt="Miguel" width="120">](https://github.com/Miguel-MirageScript) | [<img src="https://github.com/UmHomemDeMiragem.png?size=120" alt="Kauã" width="120">](https://github.com/UmHomemDeMiragem) |
+| [GitHub @Miguel-MirageScript](https://github.com/Miguel-MirageScript) | [GitHub @UmHomemDeMiragem](https://github.com/UmHomemDeMiragem) |
 | [LinkedIn](https://www.linkedin.com/in/miguel-quiroz-cs/) | [LinkedIn](https://www.linkedin.com/in/mnpax-39349a360/) |
 
 </div>
+
+---
+
+## 🔮 A Nossa Comunidade (Código Aberto)
+
+Estamos a criar um **coletivo de desenvolvedores, designers e entusiastas** que acreditam no poder da colaboração. Nossa "Miragem" é a visão de criar o que ainda não existe.
+
+Nosso principal objetivo é fomentar um ecossistema onde ideias possam evoluir rapidamente de conceito para código funcional. Acreditamos que o melhor software é construído em público, com feedback transparente, e construímos uma comunidade forte e acolhedora onde todos podem contribuir e aprender.
+
+### 🤝 Como se Tornar Membro
+Existem duas formas de fazer parte da nossa comunidade. Você pode participar de ambas!
+  
+<h4>1. Comunidade (Discord)</h4>
+<p>É onde conversamos, tiramos dúvidas e compartilhamos ideias no dia a dia. É a forma mais rápida de interagir com todos.</p>
+<ul>
+  <li><strong>Passo 1:</strong> Clique no link abaixo para entrar no nosso servidor oficial.</li>
+  <li>➡️ <strong><a href="https://discord.gg/TpfP8sY4KG">Entrar no Discord da Mirage-Script</a></strong></li>
+</ul>
+
+<h4>2. Colaborador (Organização GitHub)</h4>
+<p>Tornar-se um membro da Organização no GitHub permite que você contribua diretamente com nossos repositórios, seja designado para <i>Issues</i> e ajude a construir nossos projetos.</p>
+<ul>
+  <li><strong>Passo 1:</strong> Clique no link abaixo para abrir nosso formulário de convite.</li>
+  <li>➡️ <strong><a href="https://github.com/Mirage-Script/.github/issues/new?template=convite_organizacao.md">Solicitar um Convite para a Organização</a></strong></li>
+  <br>
+  <li><strong>Passo 2:</strong> Você verá um formulário. Preencha seu <strong>Nome de Usuário do GitHub (obrigatório)</strong>.</li>
+  <li><strong>Passo 3:</strong> Clique no botão verde <strong>"Submeter nova issue"</strong> (Submit new issue).</li>
+  <li><strong>Passo 4:</strong> <strong>Pronto!</strong> A sua solicitação foi aberta. Um administrador (<code>Miguel-MirageScript</code> ou <code>UmHomemDeMiragem</code>) será notificado, revisará seu pedido e enviará o convite oficial do GitHub para você.</li>
+</ul>
+
+---
+
 ## 🌱 Junte-se a Nós!
 
 Estamos apenas começando e temos grandes ambições. Se você é um talento apaixonado por tecnologia, busca um ambiente de crescimento, colaboração e transparência, a Mirage Script pode ser o seu lugar!
